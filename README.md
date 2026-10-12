@@ -1,9 +1,9 @@
 # Business-Data-Set-Dashboard
 A complete Excel data analysis project investigating sales performance and order returns through a dual dashboards: an Executive Overview and an Operations Diagnostic view
 
-📅 Project Timeline
-Development Period: October 2026 .
-Note: This project was developed locally and later migrated to GitHub .
+### 📅 Project Timeline
+* **Development Period:** October 2026 .
+* **Note:** This project was developed locally and later migrated to GitHub .
 
 The main objective was to evaluate both sales performance and the dynamics behind product returns. The final output includes two desktop-optimized dashboards (16:9 aspect ratio) designed to provide both strategic insights for executives and actionable diagnostic data for the operations team.
 
