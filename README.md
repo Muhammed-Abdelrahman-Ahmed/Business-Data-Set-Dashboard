@@ -31,7 +31,7 @@ Before building the dashboards, I dug deep into the data to understand the under
 I built two separate dashboards optimized for a 16:9 desktop view:
 
 - **Executive Sales & Profitability Overview:** This macro-level dashboard is for high-level decision-making. It highlights total sales ($2.1M+), total profit, and a clear 5.9% return rate. It also visualizes sales trends from 2014-2017 and compares performance across customer segments (with Consumer being the most profitable)[cite: 13, 17].
-- 
+
 - **Operations & Sales Performance Diagnostics:** This micro-level dashboard is for the operations team. It tracks detailed metrics like Average Order Value, Average Shipping Period (4 days), and highlights the most/least profitable products. Importantly, it visualizes the returned orders across regions, pointing directly to the problem areas identified during the diagnostic phase[cite: 14, 17].
 
 ## Key Recommendations
